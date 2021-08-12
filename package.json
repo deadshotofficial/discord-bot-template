@@ -13,6 +13,7 @@
     "ascii-table": "0.0.9",
     "axios": "^0.19.2",
     "discord.js": "^12.4.1",
+    "discord-buttons": "^4.0.0",
     "figlet": "^1.5.0",
     "fs": "0.0.1-security",
     "glob": "^7.1.6",
