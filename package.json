@@ -1,8 +1,8 @@
 {
-  "name": "button-beta",
+  "name": "discord-bot
   "version": "1.0.0",
   "description": "A Bot, featuring Discord-Buttons",
-  "main": "button.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node button.js"
