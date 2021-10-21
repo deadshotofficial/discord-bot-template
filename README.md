@@ -1,7 +1,6 @@
-## Discord Button Bot
-A Discord Bot. But Using Buttons This Time! <br>
-Since This feature is a newly released one, many might find bugs or glitches or no buttons showing. Please bare with that. <br>
-Also, I am still learning this feature so not many a stuffs are there, just a glimpse of what it should be like!
+## Discord Bot Template
+This is a basic template of a simple discord bot (v12) with some features of v13 like Buttons and Dropdown Help Menu! <br>
+Please dont sue me if there are some bugs or error in code!
 
 ## Credits
 Thanks to [AngeloCore](https://github.com/AngeloCore) for Providing [discord-buttons](https://github.com/AngeloCore/discord-buttons).
