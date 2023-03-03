@@ -1,0 +1,27 @@
+{
+  "name": "discord-bot-template",
+  "version": "1.0.0",
+  "description": "Just a template of DJS v14",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deadshotofficial/discord-bot-template.git"
+  },
+  "keywords": [
+    "discord-bot",
+    "bot",
+    "discord.js"
+  ],
+  "author": "DeadShot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deadshotofficial/discord-bot-template/issues"
+  },
+  "homepage": "https://github.com/deadshotofficial/discord-bot-template#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
